@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Random Colour Box
+
+This simple colour box generator demonstrates how to up date state with setState() 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
